@@ -85,7 +85,9 @@ const Header = () => {
               </Link>
             </div>
             <div className="header_menu_item header_menu_right_item">
+              <Link to="/profile">
               <i className="bx bx-user"></i>
+              </Link>
             </div>
           </div>
         </div>
